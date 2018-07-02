@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="display_padding_top">60dp</dimen>
+    <dimen name="text_size_display">75dp</dimen>
+    <dimen name="text_size_button">35dp</dimen>
+</resources>
